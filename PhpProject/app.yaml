@@ -4,5 +4,5 @@ runtime: php55
 api_version: 1
 
 handlers:
-- url: /.index.php
+- url: /.*
   script: index.php
